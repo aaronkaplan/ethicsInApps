@@ -2,7 +2,7 @@
 
 # Manifesto
 
-See the [Manifesto](manifesto/).
+See the [Manifesto](/manifesto/).
 
 # Interviews
 
