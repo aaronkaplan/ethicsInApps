@@ -2,19 +2,19 @@
 
 # Manifesto
 
-See the [Manifesto](/manifesto/).
+See the [Manifesto](https://aaronkaplan.github.io/ethicsInApps/manifesto).
 
 # Interviews
 
-[Interviews, audio recordings, etc.](interviews/).
+[Interviews, audio recordings, etc.](https://aaronkaplan.github.io/ethicsInApps/interviews/).
 
 # Perspective
 
-Discover a [positive perspective](perspective/).
+Discover a [positive perspective](https://aaronkaplan.github.io/ethicsInApps/perspective/).
 
 # Glossary 
 
-[Definitions](glossary/).
+[Definitions](https://aaronkaplan.github.io/ethicsInApps/glossary/).
 
 
 # About
